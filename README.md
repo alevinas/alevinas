@@ -1,7 +1,7 @@
 - 👋 Hola, mi nombre es Alejandro Fabián Viñas, tengo 25 años y estoy cursando actualmente el último año de la carrera de **Ingeniería en Sistemas de Información** en la Facultad Regional Buenos Aires de la Universidad Tecnológica Nacional (UTN).
 - 👀 Me interesa introducirme profesionalmente en el mundo de la industria IT. Pero por otra parte, adoro las series y las películas, soy un apasionado del futbol y de disfrutar mi estación favorita del año, el verano.
 - 🌱 Me encuentro aprendiendo ahora mismo sobre la tecnología React para el manejo de Front-End.
-- 📫 Para contactarme puede ser a través de mi: [Perfil de LinkedIn](https://www.linkedin.com/in/alejandro-fabián-viñas/)
+- 📫 Para contactarme y/o saber mas sobre mi: [Perfil de LinkedIn](https://www.linkedin.com/in/alejandro-fabián-viñas/)
 
 <!---
 alevinas/alevinas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
